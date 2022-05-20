@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_dataDetection">
+
+    <fragment
+        android:id="@+id/navigation_dataDetection"
+        android:name="com.example.graduateproject.ui.dataDetection.dataDetectionFragment"
+        android:label="@string/title_dataDetection"
+        tools:layout="@layout/fragment_datadetection" />
+
+    <fragment
+        android:id="@+id/navigation_dataTransfer"
+        android:name="com.example.graduateproject.ui.dataTransfer.dataTransferFragment"
+        android:label="@string/title_dataTransfer"
+        tools:layout="@layout/fragment_datatransfer" />
+
+    <fragment
+        android:id="@+id/navigation_resultDisplay"
+        android:name="com.example.graduateproject.ui.resultDisplay.resultDisplayFragment"
+        android:label="@string/title_resultDisplay"
+        tools:layout="@layout/fragment_resultdisplay" />
+</navigation>

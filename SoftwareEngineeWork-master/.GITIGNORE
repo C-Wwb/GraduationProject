@@ -1,0 +1,5 @@
+*.pyc
+*.db
+__pycache__
+*.idea
+*.iml

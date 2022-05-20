@@ -1,0 +1,8 @@
+Data
+
+The target variable is power generation, normalized here by the respective nominal capacities of each wind farm. The explanatory variables that can be used are the past power measurements (if relevant), and input weather forecasts, given as u and v components (zonal and meridional) which can be transformed to wind speed and direction by the contestants, or used readily. These forecasts are given at two heights, 10m and 100m above ground level, in order to give a rough idea of wind profiles.
+数据
+
+
+
+目标变量为发电量，这里按每个风电场各自的标称容量归一化。可以使用的解释变量是过去的功率测量(如相关)和输入的天气预报，以u和v分量(纬向和经向)表示，参赛者可以将它们转换为风速和风向，或易于使用。这些预报是在离地面10米和100米的高度给出的，以便对风廓线有一个粗略的概念。

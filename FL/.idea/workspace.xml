@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25a08fe9-e9ee-4182-96c5-a553f62e338c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="5738d77b-be8d-42cc-99a4-62d8e0e1a71a" />
+  <component name="ProjectId" id="28N8SAcCq5fKwqg2gTKKkH16x58" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="T:\assignment\GraduationProject\coding\FL\drawLine" />
+      <recent name="T:\assignment\GraduationProject\coding\FL" />
+      <recent name="T:\assignment\GraduationProject\coding\FL\dataProcessing\fedavg" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.fedavg (1)">
+    <configuration name="bpNn (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bpNn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fedTrain" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dataProcessing/fedavg" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dataProcessing/fedavg/fedTrain.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fedavg (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fedavg.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pyDraw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="T:\assignment\GraduationProject\coding\FL\drawLine\pyDraw.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tensorboardDraw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/drawLine" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/drawLine/tensorboardDraw.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.fedavg (1)" />
+        <item itemvalue="Python.tensorboardDraw" />
+        <item itemvalue="Python.bpNn (1)" />
+        <item itemvalue="Python.pyDraw" />
+        <item itemvalue="Python.fedTrain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25a08fe9-e9ee-4182-96c5-a553f62e338c" name="Default Changelist" comment="" />
+      <created>1651045679605</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651045679605</updated>
+      <workItem from="1651045681070" duration="2328000" />
+      <workItem from="1651058375628" duration="5917000" />
+      <workItem from="1651114070736" duration="12754000" />
+      <workItem from="1651149422567" duration="235000" />
+      <workItem from="1651149666942" duration="827000" />
+      <workItem from="1651150524620" duration="2227000" />
+      <workItem from="1651152760816" duration="420000" />
+      <workItem from="1651153189516" duration="285000" />
+      <workItem from="1651153559583" duration="5187000" />
+      <workItem from="1651285695800" duration="4896000" />
+      <workItem from="1651294666434" duration="203000" />
+      <workItem from="1651304557327" duration="7345000" />
+      <workItem from="1651650571212" duration="3272000" />
+      <workItem from="1651667624122" duration="81000" />
+      <workItem from="1651751291832" duration="2130000" />
+      <workItem from="1651827748171" duration="1054000" />
+      <workItem from="1651910047580" duration="6288000" />
+      <workItem from="1651931997177" duration="2597000" />
+      <workItem from="1651975751031" duration="2958000" />
+      <workItem from="1651996271415" duration="20191000" />
+      <workItem from="1652057433686" duration="11423000" />
+      <workItem from="1652082707881" duration="6050000" />
+      <workItem from="1652148515061" duration="4447000" />
+      <workItem from="1652172453900" duration="8589000" />
+      <workItem from="1652229659746" duration="540000" />
+      <workItem from="1652231076058" duration="8389000" />
+      <workItem from="1652315704377" duration="1846000" />
+      <workItem from="1652357997703" duration="2164000" />
+      <workItem from="1652405186375" duration="601000" />
+      <workItem from="1652414540148" duration="1267000" />
+      <workItem from="1652438753749" duration="1206000" />
+      <workItem from="1652701950564" duration="282000" />
+      <workItem from="1652834722760" duration="1852000" />
+      <workItem from="1652859177438" duration="4016000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="192" y="83" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1651153354827">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="192" y="83" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1474.864@0.0.1474.864" timestamp="1651153354827" />
+    <state x="405" y="121" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1652229461548">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="405" y="121" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1474.864@0.0.1474.864" timestamp="1652229461548" />
+    <state x="468" y="133" key="FileChooserDialogImpl" timestamp="1652414898627">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="468" y="133" key="FileChooserDialogImpl/0.0.1474.864@0.0.1474.864" timestamp="1652414898627" />
+    <state width="1417" height="203" key="GridCell.Tab.0.bottom" timestamp="1652864524252">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1417" height="203" key="GridCell.Tab.0.bottom/0.0.1474.864@0.0.1474.864" timestamp="1652864524252" />
+    <state width="1417" height="203" key="GridCell.Tab.0.center" timestamp="1652864524252">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1417" height="203" key="GridCell.Tab.0.center/0.0.1474.864@0.0.1474.864" timestamp="1652864524252" />
+    <state width="1417" height="203" key="GridCell.Tab.0.left" timestamp="1652864524252">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1417" height="203" key="GridCell.Tab.0.left/0.0.1474.864@0.0.1474.864" timestamp="1652864524252" />
+    <state width="1417" height="203" key="GridCell.Tab.0.right" timestamp="1652864524252">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1417" height="203" key="GridCell.Tab.0.right/0.0.1474.864@0.0.1474.864" timestamp="1652864524252" />
+    <state width="1417" height="260" key="GridCell.Tab.1.bottom" timestamp="1652240234667">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1417" height="260" key="GridCell.Tab.1.bottom/0.0.1474.864@0.0.1474.864" timestamp="1652240234667" />
+    <state width="1417" height="260" key="GridCell.Tab.1.center" timestamp="1652240234667">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1417" height="260" key="GridCell.Tab.1.center/0.0.1474.864@0.0.1474.864" timestamp="1652240234667" />
+    <state width="1417" height="260" key="GridCell.Tab.1.left" timestamp="1652240234667">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1417" height="260" key="GridCell.Tab.1.left/0.0.1474.864@0.0.1474.864" timestamp="1652240234667" />
+    <state width="1417" height="260" key="GridCell.Tab.1.right" timestamp="1652240234667">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1417" height="260" key="GridCell.Tab.1.right/0.0.1474.864@0.0.1474.864" timestamp="1652240234667" />
+    <state x="133" y="0" key="SettingsEditor" timestamp="1652861261011">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="133" y="0" key="SettingsEditor/0.0.1474.864@0.0.1474.864" timestamp="1652861261011" />
+    <state width="744" height="439" key="XDebugger.FullValuePopup" timestamp="1651933246980">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="744" height="439" key="XDebugger.FullValuePopup/0.0.1474.864@0.0.1474.864" timestamp="1651933246980" />
+    <state x="346" y="218" key="com.intellij.ide.util.TipDialog" timestamp="1652859177134">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="346" y="218" key="com.intellij.ide.util.TipDialog/0.0.1474.864@0.0.1474.864" timestamp="1652859177134" />
+    <state x="388" y="-1" key="search.everywhere.popup" timestamp="1652860601127">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="388" y="-1" key="search.everywhere.popup/0.0.1474.864@0.0.1474.864" timestamp="1652860601127" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FL$popa.coverage" NAME="popa Coverage Results" MODIFIED="1651307553958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/popa" />
+    <SUITE FILE_PATH="coverage/FL$bpNn.coverage" NAME="bpNn Coverage Results" MODIFIED="1651324288488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataProcessing" />
+    <SUITE FILE_PATH="coverage/FL$main.coverage" NAME="main Coverage Results" MODIFIED="1651062842105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FL$drawLoss.coverage" NAME="drawLoss Coverage Results" MODIFIED="1652238362032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FL$fedTrain.coverage" NAME="fedTrain Coverage Results" MODIFIED="1652009382076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataProcessing/fedavg" />
+    <SUITE FILE_PATH="coverage/FL$bpNn__1_.coverage" NAME="bpNn (1) Coverage Results" MODIFIED="1652359562972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FL$csv.coverage" NAME="csv Coverage Results" MODIFIED="1652003142448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/universal" />
+    <SUITE FILE_PATH="coverage/FL$fedavg.coverage" NAME="fedavg Coverage Results" MODIFIED="1651152963194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fedavgAlgorithm" />
+    <SUITE FILE_PATH="coverage/FL$constructDataSet.coverage" NAME="constructDataSet Coverage Results" MODIFIED="1651149667428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataProcessing" />
+    <SUITE FILE_PATH="coverage/FL$tensorboardDraw.coverage" NAME="tensorboardDraw Coverage Results" MODIFIED="1652861769160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/drawLine" />
+    <SUITE FILE_PATH="coverage/FL$fedavg__1_.coverage" NAME="fedavg (1) Coverage Results" MODIFIED="1652862243759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0269252-3d28-433e-ba69-85bf1edc2936" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="25lmzd5FcmltexMLuxqZMYRV8zA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FL" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.bp_nn">
+    <configuration name="bp_nn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FedAvg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/bp_nn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fedavg-numpy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FedAvg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/fedavg-numpy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fedavg-pytorch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FedAvg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/fedavg-pytorch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fedavg-tff" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FedAvg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/fedavg-tff.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="models" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FedAvg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/models.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.bp_nn" />
+        <item itemvalue="Python.fedavg-pytorch" />
+        <item itemvalue="Python.models" />
+        <item itemvalue="Python.fedavg-tff" />
+        <item itemvalue="Python.fedavg-numpy" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0269252-3d28-433e-ba69-85bf1edc2936" name="默认更改列表" comment="" />
+      <created>1646110310871</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646110310871</updated>
+      <workItem from="1646110326276" duration="689000" />
+      <workItem from="1646143026980" duration="3460000" />
+      <workItem from="1646312390537" duration="4194000" />
+      <workItem from="1646363066486" duration="1705000" />
+      <workItem from="1646483535088" duration="1314000" />
+      <workItem from="1647414020510" duration="1053000" />
+      <workItem from="1647415923769" duration="2379000" />
+      <workItem from="1647430802617" duration="2291000" />
+      <workItem from="1647483437514" duration="1833000" />
+      <workItem from="1647485778127" duration="1067000" />
+      <workItem from="1647486939492" duration="239000" />
+      <workItem from="1647495402598" duration="1482000" />
+      <workItem from="1647500053351" duration="1392000" />
+      <workItem from="1647570294347" duration="3609000" />
+      <workItem from="1647582573352" duration="5039000" />
+      <workItem from="1647588335809" duration="627000" />
+      <workItem from="1648362478952" duration="3587000" />
+      <workItem from="1648381362559" duration="1944000" />
+      <workItem from="1648455017913" duration="2843000" />
+      <workItem from="1648467039335" duration="3613000" />
+      <workItem from="1648557945241" duration="2843000" />
+      <workItem from="1648641131303" duration="498000" />
+      <workItem from="1649481981595" duration="45000" />
+      <workItem from="1649639720802" duration="712000" />
+      <workItem from="1649640941247" duration="846000" />
+      <workItem from="1649642286661" duration="3744000" />
+      <workItem from="1649680588191" duration="1719000" />
+      <workItem from="1649749623836" duration="2173000" />
+      <workItem from="1649764544781" duration="1865000" />
+      <workItem from="1649766774887" duration="50000" />
+      <workItem from="1649853196213" duration="2277000" />
+      <workItem from="1649897841801" duration="4166000" />
+      <workItem from="1649910673464" duration="5293000" />
+      <workItem from="1649937920210" duration="2737000" />
+      <workItem from="1649943360671" duration="348000" />
+      <workItem from="1649980123801" duration="2209000" />
+      <workItem from="1649989293206" duration="2558000" />
+      <workItem from="1650008926998" duration="744000" />
+      <workItem from="1650009958994" duration="2755000" />
+      <workItem from="1650023272970" duration="22069000" />
+      <workItem from="1650196344389" duration="4287000" />
+      <workItem from="1650246008596" duration="2801000" />
+      <workItem from="1650285630912" duration="4385000" />
+      <workItem from="1650336498578" duration="7889000" />
+      <workItem from="1650418190386" duration="6100000" />
+      <workItem from="1651028980172" duration="1249000" />
+      <workItem from="1651030534354" duration="381000" />
+      <workItem from="1651044135542" duration="5085000" />
+      <workItem from="1651058351621" duration="5459000" />
+      <workItem from="1651114103138" duration="1471000" />
+      <workItem from="1651148518523" duration="4865000" />
+      <workItem from="1651153551517" duration="116000" />
+      <workItem from="1651199459304" duration="737000" />
+      <workItem from="1651304591836" duration="117000" />
+      <workItem from="1651322212226" duration="1466000" />
+      <workItem from="1651664769148" duration="483000" />
+      <workItem from="1651998153313" duration="259000" />
+      <workItem from="1651998464402" duration="779000" />
+      <workItem from="1651999710969" duration="166000" />
+      <workItem from="1652000183271" duration="625000" />
+      <workItem from="1652019013493" duration="198000" />
+      <workItem from="1652358240746" duration="955000" />
+      <workItem from="1652405202969" duration="2146000" />
+      <workItem from="1652414901045" duration="1249000" />
+      <workItem from="1652430556106" duration="633000" />
+      <workItem from="1652438716188" duration="35000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="436" y="69" key="#xdebugger.evaluate" timestamp="1650028358421">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="436" y="69" key="#xdebugger.evaluate/0.0.1474.864@0.0.1474.864" timestamp="1650028358421" />
+    <state x="467" y="133" key="FileChooserDialogImpl" timestamp="1652438750094">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="467" y="133" key="FileChooserDialogImpl/0.0.1474.864@0.0.1474.864" timestamp="1652438750094" />
+    <state width="1417" height="182" key="GridCell.Tab.0.bottom" timestamp="1652414538106">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1417" height="182" key="GridCell.Tab.0.bottom/0.0.1474.864@0.0.1474.864" timestamp="1652414538106" />
+    <state width="1417" height="182" key="GridCell.Tab.0.center" timestamp="1652414538106">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1417" height="182" key="GridCell.Tab.0.center/0.0.1474.864@0.0.1474.864" timestamp="1652414538106" />
+    <state width="1417" height="182" key="GridCell.Tab.0.left" timestamp="1652414538106">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1417" height="182" key="GridCell.Tab.0.left/0.0.1474.864@0.0.1474.864" timestamp="1652414538106" />
+    <state width="1417" height="182" key="GridCell.Tab.0.right" timestamp="1652414538106">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1417" height="182" key="GridCell.Tab.0.right/0.0.1474.864@0.0.1474.864" timestamp="1652414538106" />
+    <state width="1417" height="258" key="GridCell.Tab.1.bottom" timestamp="1651153481928">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1417" height="258" key="GridCell.Tab.1.bottom/0.0.1474.864@0.0.1474.864" timestamp="1651153481928" />
+    <state width="1417" height="258" key="GridCell.Tab.1.center" timestamp="1651153481928">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1417" height="258" key="GridCell.Tab.1.center/0.0.1474.864@0.0.1474.864" timestamp="1651153481928" />
+    <state width="1417" height="258" key="GridCell.Tab.1.left" timestamp="1651153481928">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1417" height="258" key="GridCell.Tab.1.left/0.0.1474.864@0.0.1474.864" timestamp="1651153481928" />
+    <state width="1417" height="258" key="GridCell.Tab.1.right" timestamp="1651153481928">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1417" height="258" key="GridCell.Tab.1.right/0.0.1474.864@0.0.1474.864" timestamp="1651153481928" />
+    <state x="133" y="0" key="SettingsEditor" timestamp="1651061565828">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="133" y="0" key="SettingsEditor/0.0.1474.864@0.0.1474.864" timestamp="1651061565828" />
+    <state width="744" height="439" key="XDebugger.FullValuePopup" timestamp="1651030842305">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="744" height="439" key="XDebugger.FullValuePopup/0.0.1474.864@0.0.1474.864" timestamp="1651030842305" />
+    <state x="346" y="218" key="com.intellij.ide.util.TipDialog" timestamp="1652438716362">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="346" y="218" key="com.intellij.ide.util.TipDialog/0.0.1474.864@0.0.1474.864" timestamp="1652438716362" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="data" />
+        <watch expression="model" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FedAvg_numpy_pytorch_tff_main$fedavg_tff.coverage" NAME="fedavg-tff Coverage Results" MODIFIED="1650011857407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms" />
+    <SUITE FILE_PATH="coverage/FedAvg_numpy_pytorch_tff_main$fedavg_pytorch.coverage" NAME="fedavg-pytorch Coverage Results" MODIFIED="1652413082679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms" />
+    <SUITE FILE_PATH="coverage/FedAvg$bp_nn.coverage" NAME="bp_nn Coverage Results" MODIFIED="1646484714320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms" />
+    <SUITE FILE_PATH="coverage/FedAvg_numpy_pytorch_tff_main$args.coverage" NAME="args Coverage Results" MODIFIED="1647500479183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FedAvg_numpy_pytorch_tff_main$models.coverage" NAME="models Coverage Results" MODIFIED="1651150734441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FedAvg$fedavg_numpy.coverage" NAME="fedavg-numpy Coverage Results" MODIFIED="1646484726430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms" />
+    <SUITE FILE_PATH="coverage/FedAvg_numpy_pytorch_tff_main$bp_nn.coverage" NAME="bp_nn Coverage Results" MODIFIED="1652414087867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms" />
+    <SUITE FILE_PATH="coverage/FedAvg$fedavg.coverage" NAME="fedavg Coverage Results" MODIFIED="1646144764066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms" />
+    <SUITE FILE_PATH="coverage/FedAvg$fedavg_pytorch.coverage" NAME="fedavg-pytorch Coverage Results" MODIFIED="1646484805772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms" />
+    <SUITE FILE_PATH="coverage/FedAvg_numpy_pytorch_tff_main$text.coverage" NAME="text Coverage Results" MODIFIED="1647485819314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FedAvg$fedavg_tff.coverage" NAME="fedavg-tff Coverage Results" MODIFIED="1646146010263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms" />
+    <SUITE FILE_PATH="coverage/FedAvg_numpy_pytorch_tff_main$fedavg_numpy.coverage" NAME="fedavg-numpy Coverage Results" MODIFIED="1648455721068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms" />
+  </component>
+</project>
