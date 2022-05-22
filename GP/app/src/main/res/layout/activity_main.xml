@@ -11,7 +11,7 @@
         android:id="@+id/text_log"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="104dp"
+        android:layout_marginTop="72dp"
         android:text="欢迎来到健康监测系统"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -21,12 +21,12 @@
         android:id="@+id/log_name"
         android:layout_width="107dp"
         android:layout_height="47dp"
-        android:layout_marginTop="164dp"
+        android:layout_marginTop="144dp"
         android:hint="用户名"
         android:textCursorDrawable="@drawable/cursor"
         android:theme="@style/MyEditText"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.529"
+        app:layout_constraintHorizontal_bias="0.527"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -34,12 +34,12 @@
         android:id="@+id/log_password"
         android:layout_width="107dp"
         android:layout_height="47dp"
-        android:layout_marginTop="244dp"
+        android:layout_marginTop="224dp"
         android:hint="密码"
         android:textCursorDrawable="@drawable/cursor"
         android:theme="@style/MyEditText"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.529"
+        app:layout_constraintHorizontal_bias="0.527"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -47,9 +47,9 @@
         android:id="@+id/btn_password"
         android:layout_width="50dp"
         android:layout_height="50dp"
-        android:layout_marginTop="244dp"
-        android:layout_marginEnd="244dp"
-        android:layout_marginRight="244dp"
+        android:layout_marginTop="224dp"
+        android:layout_marginEnd="224dp"
+        android:layout_marginRight="224dp"
         android:background="@mipmap/p3"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -58,9 +58,9 @@
         android:id="@+id/btn_log"
         android:layout_width="50dp"
         android:layout_height="50dp"
-        android:layout_marginTop="164dp"
-        android:layout_marginEnd="248dp"
-        android:layout_marginRight="248dp"
+        android:layout_marginTop="144dp"
+        android:layout_marginEnd="224dp"
+        android:layout_marginRight="224dp"
         android:background="@mipmap/p4"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -73,10 +73,10 @@
         android:textColor="#ffffff"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.796" />
+        app:layout_constraintVertical_bias="0.836" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

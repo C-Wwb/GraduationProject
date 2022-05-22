@@ -18,7 +18,7 @@ public class DtDisplay extends  AppCompatActivity{
         setContentView(R.layout.dtdisplay);
 
         bt_rd = findViewById(R.id.button_rd);
-        final Uri uri = Uri.parse("https://baidu.com");
+        final Uri uri = Uri.parse("https://github.com/C-Wwb/GraduationProject/blob/master/picture/C1.png");
         bt_rd.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {

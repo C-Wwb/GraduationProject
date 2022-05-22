@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
         passwd = findViewById(R.id.log_password);
 
         bt_log = findViewById(R.id.button_log);
+        System.out.println("您已成功登陆");
         bt_log.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {

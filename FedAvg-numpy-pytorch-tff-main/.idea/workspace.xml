@@ -15,7 +15,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="25lmzd5FcmltexMLuxqZMYRV8zA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -28,7 +28,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -234,6 +234,7 @@
       <workItem from="1652414901045" duration="1249000" />
       <workItem from="1652430556106" duration="633000" />
       <workItem from="1652438716188" duration="35000" />
+      <workItem from="1653203999252" duration="556000" />
     </task>
     <servers />
   </component>
